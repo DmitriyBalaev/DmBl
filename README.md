@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E69F16FF&width=435&lines=Hi.+Welcome!)](https://git.io/typing-svg)
 
 ```python
 name: Dmitry Balaev
